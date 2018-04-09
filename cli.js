@@ -81,7 +81,6 @@ fs.exists(path, (exists) => {
 //endregion
 
 // console.log(process.env);
-
 // stdin - вход
 // stdout - выход
 // stderr - ошибки
